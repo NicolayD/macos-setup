@@ -1,3 +1,8 @@
+cask halloy	
+cask ngrok
+cask warp
+
+brew warp
 brew asdf		
 brew libevent	
 brew m4		
@@ -50,6 +55,3 @@ brew lynx
 brew readline
 brew krb5		
 brew lz4
-
-cask halloy	
-cask ngrok
