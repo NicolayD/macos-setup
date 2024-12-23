@@ -20,6 +20,10 @@ Terminal (or the terminal application used) might require Disk Access enabled.
 
 ## Resources
 
+[macOS setup for hackers and power users (macOS Sequoia edition) #1](https://alec-c4.com/posts/2024-09-22-macos-sequoia-for-hackers)
+
+[macOS setup for hackers and power users (macOS Sequoia edition) #2](https://alec-c4.com/posts/2024-12-14-macos-setup-for-hackers-2)
+
 [Daniel Saidi's Blog - Automate Setting up macOS](https://danielsaidi.com/blog/2018/08/26/automate-setting-up-mac-os)
 
 [Unofficial macOS `defaults` Service Guide](https://macos-defaults.com/)
