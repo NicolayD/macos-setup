@@ -55,3 +55,4 @@ brew lynx
 brew readline
 brew krb5		
 brew lz4
+brew lima
