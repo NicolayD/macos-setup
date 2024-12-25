@@ -49,7 +49,6 @@ brew gpatch
 brew zstd
 brew icu4c@76	
 brew luv		
-brew rbenv
 brew jpeg-turbo	
 brew lynx		
 brew readline
