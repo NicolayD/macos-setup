@@ -2,6 +2,8 @@ cask halloy
 cask ngrok
 cask warp
 
+tap hashicorp/tap
+
 brew warp
 brew asdf		
 brew libevent	
@@ -56,3 +58,4 @@ brew krb5
 brew lz4
 brew lima
 brew kubectl
+hashicorp/tap/terraform
