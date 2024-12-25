@@ -40,6 +40,6 @@ Honorary mention because I like Terminal even though I don't really use it:
 
 [Official macOS Terminal Guide](https://support.apple.com/guide/terminal/welcome/mac)
 
-MacOS Hardening:
+MacOS Hardening: https://xer0x.in/macos-hardening-01/
 
-https://xer0x.in/macos-hardening-01/
+MacOS Firmware Downloader and Installer: https://github.com/ninxsoft/Mist
