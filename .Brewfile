@@ -31,6 +31,7 @@ brew neovim
 brew tree-sitter
 brew defaultbrowser	
 brew libvterm	
+brew python
 brew opam		
 brew unibilium
 brew duckdb		
@@ -58,4 +59,7 @@ brew krb5
 brew lz4
 brew lima
 brew kubectl
+brew etcd 
+brew haproxy 
+brew libyaml
 hashicorp/tap/terraform
